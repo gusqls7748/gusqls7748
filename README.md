@@ -6,6 +6,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gusqls7748=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gusqls7748=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gusqls7748/gusqls7748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
