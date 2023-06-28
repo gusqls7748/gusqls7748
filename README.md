@@ -72,13 +72,27 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
    <br/>
-   <br/>
+
  
 #### :pencil2: Study log
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DJ%20Github&fontSize=90" />
+
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/gusqls7748">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/gusqls7748">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gusqls7748" />
+  </a>
+</p>
   
 
 </div>
@@ -111,18 +125,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DJ%20Github&fontSize=90" />
 
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/gusqls7748">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/gusqls7748">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gusqls7748" />
-  </a>
-</p> -->
