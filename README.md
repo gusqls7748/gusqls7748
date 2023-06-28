@@ -77,7 +77,7 @@
  
   <br/>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=gusqls7748%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=gusqls7748%10Github&fontSize=70" />
 
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
