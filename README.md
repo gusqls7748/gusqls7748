@@ -124,4 +124,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**5. 결제 및 장바구니**
+
+<img src=""C:\Users\Administrator\Documents\oCam\녹화_2023_06_30_13_33_31_29.gif""> <br/><br/>
+
+- 주문한 클래스를 장바구니에 저장했을 때 장바구니 페이지에서 주문한 목록을 출력
+- checkbox로 체크되어있는 목록은 신청인원과 자동으로 계산이 되어 결제 금액에 총 금액이 출력
+- 선택된 checkbox 값을 통하여 BasketController를 통하여 삭제 기능 구현을 구현
+- 결제 화면버튼을 이용하여 결제 페이지로 이동
+- --API를 사용하여 클래스 일정 선택 후 결제 진행
+<br/>
 
