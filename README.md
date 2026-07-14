@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HB%20Github&fontSize=90" />
+<!-- 움직이는 헤더: 기존보다 세련된 'star' 타입 적용 -->
+<img src="https://capsule-render.vercel.app/api?type=star&color=gradient&height=300&section=header&text=Cheon%20Hyeon-bin&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
-### 👋 반갑습니다, Cheon Hyeon-bin입니다.
-#### ⭐ Back-End Developer | Embedded & IoT Learner ⭐
+### 👋 반갑습니다, Back-End Developer Cheon Hyeon-bin입니다.
+#### ⭐ Embedded & IoT를 사랑하는 열정적인 개발자 ⭐
 
 <br/>
 
@@ -11,13 +12,12 @@
 - **Name**: Cheon Hyeon-bin
 - **Email**: gusqls7748@naver.com
 - **Location**: Busan, South Korea
-- **Portfolio**: [Notion 바로가기]([본인의_노션_링크_주소](https://app.notion.com/library/recents?spaceId=be662923d7ff81f58c2e0003f982da91))
+- **Portfolio**: [Notion 바로가기](https://app.notion.com/library/recents?spaceId=be662923d7ff81f58c2e0003f982da91)
 
 ---
 
 ### 🔭 Currently Focus
 - **Embedded & IoT**: Raspberry Pi와 Flask를 활용한 실시간 데이터 모니터링 시스템 구축
-- **Certifications**: 정보처리기사 실기 및 ADsP(데이터분석준전문가) 자격증 취득 준비
 - **Language**: C, C++, Python, Java를 활용한 로직 구현 및 데이터 처리
 
 ---
@@ -38,7 +38,7 @@
 </div> 
 
 <div align="center">
-  <h4> :package: OS, Cloud & Tools</h4>
+  <h4> :package: Tools</h4>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
@@ -47,14 +47,20 @@
 
 ---
 
-### 💡 Statistics & Streak
+### 💡 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gusqls7748" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gusqls7748&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gusqls7748&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gusqls7748&theme=tokyonight" />
 </p>
+
+---
+
+### 🎮 Contribution Snake
+<!-- 깃허브 잔디를 먹으며 돌아다니는 스네이크 게임 -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 <br/>
 
