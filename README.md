@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 움직이는 헤더: 기존보다 세련된 'star' 타입 적용 -->
-<img src="https://capsule-render.vercel.app/api?type=star&color=gradient&height=300&section=header&text=Cheon%20Hyeon-bin&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HB%20Github&fontSize=90" />
 
 ### 👋 반갑습니다, Back-End Developer Cheon Hyeon-bin입니다.
 #### ⭐ Embedded & IoT를 사랑하는 열정적인 개발자 ⭐
