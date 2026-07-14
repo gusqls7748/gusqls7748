@@ -11,12 +11,14 @@
 - **Name**: Cheon Hyeon-bin
 - **Email**: gusqls7748@naver.com
 - **Location**: Busan, South Korea
+- **Portfolio**: [Notion 바로가기]([본인의_노션_링크_주소](https://app.notion.com/library/recents?spaceId=be662923d7ff81f58c2e0003f982da91))
 
 ---
 
 ### 🔭 Currently Focus
-- **Embedded & IoT**: Raspberry Pi 기반 하드웨어 제어 및 Flask 연동 프로젝트
-- **Tech Stack**: C, C++, Python, Java 기반의 시스템 개발
+- **Embedded & IoT**: Raspberry Pi와 Flask를 활용한 실시간 데이터 모니터링 시스템 구축
+- **Certifications**: 정보처리기사 실기 및 ADsP(데이터분석준전문가) 자격증 취득 준비
+- **Language**: C, C++, Python, Java를 활용한 로직 구현 및 데이터 처리
 
 ---
 
@@ -43,14 +45,15 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 </div>
 
-<br/>
+---
 
-### 💡 Statistics
+### 💡 Statistics & Streak
 <p align="center">
-  <a href="https://github.com/gusqls7748">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gusqls7748" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gusqls7748" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gusqls7748&theme=radical" />
 </p>
 
 <br/>
