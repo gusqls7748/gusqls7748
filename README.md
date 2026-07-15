@@ -1,70 +1,69 @@
-<div align="center">
-
-<!-- 움직이는 헤더: 기존보다 세련된 'star' 타입 적용 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HB%20Github&fontSize=90" />
-
-### 👋 반갑습니다, Back-End Developer Cheon Hyeon-bin입니다.
-#### ⭐ Embedded & IoT를 사랑하는 열정적인 개발자 ⭐
-
-<br/>
-
-# 🛠️ Profile
-- **Name**: Cheon Hyeon-bin
-- **Email**: gusqls7748@naver.com
-- **Location**: Busan, South Korea
-- **Portfolio**: [Notion 바로가기](https://app.notion.com/library/recents?spaceId=be662923d7ff81f58c2e0003f982da91)
-
----
-
-### 🔭 Currently Focus
-- **Embedded & IoT**: Raspberry Pi와 Flask를 활용한 실시간 데이터 모니터링 시스템 구축
-- **Language**: C, C++, Python, Java를 활용한 로직 구현 및 데이터 처리
-
----
-
-### 📚 Tech Stack
-<div align="center">
-  <h4> :card_file_box: Data Base</h4>
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-232F3E?style=flat&logo=h2&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-</div> 
-<div align="center">
-  <h4> :computer: Back-End</h4>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
-</div> 
-
-<div align="center">
-  <h4> :package: Tools</h4>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-</div>
-
----
-
-### 💡 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusqls7748&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gusqls7748&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gusqls7748&theme=tokyonight" />
+<p align='center'>
+  <a href="https://github.com/gusqls7748">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=HB%20Lect%20Bank&section=header&fontColor=08429B&fontSize=55&fontAlignY=47&animation=fadeIn&stroke=EFEFEF&strokeWidth=4&desc=IoT%20개발자&descSize=14"/>
+  </a>
 </p>
 
----
+# 프로필
 
-### 🎮 Contribution Snake
-<!-- 깃허브 잔디를 먹으며 돌아다니는 스네이크 게임 -->
+- 이름 : 천현빈(Chen hyun been)
+- 이메일 : gusqls7748@naver.com
+- 전문분야 : C#, Java, Smart Factory, Iot, Python
+
+## 기술스택
+
+### 사용언어
+
+<p align="left">
+    <img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming" title="c-programming" />
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" title="c++" />
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo" title="c#" />
+    ...
+</p>
+
+<p align="left">
+    <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+</p>
+
+
+### 사용툴
+
+<p align="left">
+    <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2" title="Visual Studio" />
+    ...
+</p>
+
+### 기술명세
+
+|기술분류 | 보유기술 |
+|---|---|
+|Language | [C]<br>구조적 프로그래밍<br>[C++]<br>- 객체지향 프로그래밍<br>-STL 프로그래밍
+|OS |[Windows]<br>- Docker <br>[Linux]<br>- Ubuntu 22.4.1 <br>- Raspbian 
+
+<!-- HTML도 동일
+<table>
+<tr>
+    <th>기술분류</th>
+    <th>보유기술</th>
+</tr>
+<tr>
+    <td>Language</td>
+</tr>
+</table>
+-->
+
+### 프로젝트 리스트
+
+- [WPF] 
+    - [OpenAPI CCTV 모니터링앱](https://github.com/gusqls7748/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
+
+
+### Contributiuon
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
-<br/>
+## 🌱 My Contribution 3D Graph
 
-<a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgusqls7748&count_bg=%2379C83D&title_bg=%23555555&icon=dependabot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-</div>
+![](./profile-3d-contrib/profile-green-animate.svg)
