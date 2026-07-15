@@ -57,7 +57,7 @@
 ### 프로젝트 리스트
 
 - [WPF] 
-    - [OpenAPI CCTV 모니터링앱](https://github.com/gusqls7748/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
+    - [OpenAPI CCTV 모니터링앱](https://github.com/gusqls7748/iot-dotnet-2026/blob/main/TOYPROJECT.md)
 
 
 ### Contributiuon
