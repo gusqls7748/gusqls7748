@@ -1,8 +1,6 @@
 <p align='center'>
   <a href="https://github.com/gusqls7748">
     <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=HB%20Lect%20Bank&section=header&fontColor=08429B&fontSize=55&fontAlignY=47&animation=fadeIn&stroke=EFEFEF&strokeWidth=4&desc=Embedded%20%26%20IoT%20Developer&descSize=14"/>
-  </a>
-</p>
 
 # 👤 프로필
 
