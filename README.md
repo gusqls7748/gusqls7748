@@ -63,9 +63,6 @@
 <!-- 깃허브 잔디를 먹으며 돌아다니는 스네이크 게임 -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
-<br/>
-
-<a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgusqls7748&count_bg=%2379C83D&title_bg=%23555555&icon=dependabot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
 </div>
+
+
