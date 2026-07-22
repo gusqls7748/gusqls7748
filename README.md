@@ -41,12 +41,14 @@
 
 ## 📋 기술 명세 (Technical Specifications)
 
-| 구분 | 상세 기술 및 보유 역량 |
-| :--- | :--- |
-| **Language** | **[C / C++]**<br>• 시스템 최적화를 위한 동적 메모리 관리 및 구조체 활용<br>• OOP 캡슐화, 상속, 다형성 반영 및 클래스 분할 컴파일 기반 모듈화 아키텍처 설계<br>• STL(Vector, Deque, Map 컨테이너 및 Iterator)을 활용한 효율적 자료구조/알고리즘 구현<br><br>**[C# (.NET 10.0)]**<br>• WPF 기반 Windows Desktop Application 개발<br>• `async/await` 기반 비동기 프로그래밍 및 REST API 연동<br><br>**[Python]**<br>• OpenAPI 데이터 수집 및 JSON 파싱, Matplotlib 기반 데이터 시각화 |
-| **Framework** | **[WPF]**<br>• MVVM 패턴 및 데이터 바인딩을 적용한 실시간 HMI UI/UX 설계 역량<br><br>**[ROS2]**<br>• Pub/Sub 메커니즘을 이용한 분산 환경 시스템 구축<br>• 아두이노-라즈베리파이 간 통신 제어 구현 |
-| **DBMS** | **[MySQL]**<br>• 요구사항에 최적화된 데이터 모델링 및 테이블 간 논리적 관계 설계<br>• CRUD 쿼리 작성 및 B-Tree 인덱스 최적화를 통한 대용량 데이터 조회 성능 향상<br>• 트랜잭션 관리를 통한 데이터 무결성 및 안전성 보장 |
-| **OS & DevOps**| **[Windows / Linux]**<br>• .NET 응용 프로그램 개발 및 Ubuntu 터미널 명령어 제어/네트워크 통신 구축<br>• VMware 가상 머신 환경 내 Ubuntu(Linux) OS 운용<br>• Docker를 활용한 ASP.NET Core Web API 컨테이너 배포<br>• Linux 터미널 기반 디렉토리 제어, 패키지 설치 및 ROS2 노드 통신 환경 구축 |
+### 기술명세
+
+|기술분류 | 보유기술 |
+|---|---|
+|Language | **[C / C++]**<br>OOP, STL<br>**[C# (.NET 10.0)]**<br>WPF, REST API<br>**[Python]**<br>OpenAPI, JSON, Matplotlib |
+|Framework | **[WPF]**<br>MVVM, HMI<br>**[ROS2]**<br>Pub/Sub, Serial Communication |
+|DBMS | **[MySQL]**<br>Data Modeling, CRUD, Indexing, Transaction |
+|OS & DevOps | **[Windows / Linux]**<br>Ubuntu, Raspbian, VMware<br>**[Docker]**<br>Container Deployment |
 
 ---
 
