@@ -1,6 +1,7 @@
-<p align='center'>
-  <a href="https://github.com/gusqls7748">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=HB%20Lect%20Bank&section=header&fontColor=08429B&fontSize=55&fontAlignY=47&animation=fadeIn&stroke=EFEFEF&strokeWidth=4&desc=Embedded%20%26%20IoT%20Developer&descSize=14"/>
+<div align="center">
+
+<!-- 움직이는 헤더: 기존보다 세련된 'star' 타입 적용 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HB%20Github&fontSize=90" />
 
 # 👤 프로필
 
