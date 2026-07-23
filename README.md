@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET%2010.0-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  
+
 </p>
 
 ### 프레임워크 & 데이터베이스
