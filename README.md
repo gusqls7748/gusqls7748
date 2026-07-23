@@ -1,7 +1,9 @@
 
+<p align='center'>
   <a href="https://github.com/gusqls7748">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=HB%20Lect%20Bank&section=header&reversal=false&textBg=false&fontColor=08429B&fontSize=55&fontAlign=50&fontAlignY=36&animation=twinkling&stroke=EFEFEF&strokeWidth=3&desc=Embedded%20%26%20IoT%20Developer&descSize=15&descAlignY=51"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=HyunBeen%20Bank&fontColor=08429B&fontSize=55&fontAlignY=36&animation=twinkling&stroke=EFEFEF&strokeWidth=3&desc=IoT%20개발자&descSize=15&descAlignY=51"/>
   </a>
+</p>
 
 
 # 프로필
