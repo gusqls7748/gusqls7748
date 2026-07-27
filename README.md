@@ -108,6 +108,8 @@
     - [OpenAPI CCTV 모니터링앱](https://github.com/gusqls7748/iot-dotnet-2026/blob/main/TOYPROJECT.md)
 - [.NET] 
     - [Orleans 기반 게임 서버 구현](https://github.com/gusqls7748/TricalRevive-Server/blob/main/README.md)
+- [C++]
+    - [비트코인 자동 매매 시스템](https://github.com/gusqls7748/iot-AutoTradingProject/blob/main/README.md)
 
 ### Contribution
 
